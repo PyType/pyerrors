@@ -1,51 +1,17 @@
-# TypeScript-Jest-Node Starter
+# Python Error Tree
 
-[![Build Status](https://travis-ci.org/al-chaudhari/yarn-ts-jest-starter.svg?branch=master)](https://travis-ci.org/al-chaudhari/yarn-ts-jest-starter)
+Python Error Tree in TypeScript
 
-[![Coverage Status](https://coveralls.io/repos/github/al-chaudhari/yarn-ts-jest-starter/badge.svg?branch=master)](https://coveralls.io/github/al-chaudhari/yarn-ts-jest-starter?branch=master)
+![Python Error Tree](assets/tree.png 'Logo Title Text 1')
 
-**Dependencies**
-```
-yarn install
-```
-
-**Test**
-
-```
-yarn run test // Runtest
-```
-**Build And Start**
-```
-yarn run start // Build And Start
-```
-**Start Dev Server**
-```
-yarn run start:dev // Start Development Server with Nodemon
+```bash
+npm i -D pyerrors
 ```
 
-**Build**
-```
-yarn run build // Rebuild
-```
+# Usage
 
-**Lint**
-
-```
-yarn run lint
+```javascript
+throw new ValueError();
 ```
 
-**format**
-```
-yarn run format
-```
-
-**doc**
-
-```
-yarn run doc
-
-```
-
-# Coverage Features
-
-It comes with Coveralls & TravisCI Configurations. Just Enable Travis Ci and Coveralls  `change your Badge`.
+# Import Any From Tree in Image Directly
